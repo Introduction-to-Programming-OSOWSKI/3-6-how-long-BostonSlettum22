@@ -1,7 +1,6 @@
 def howLong(x):
+    return len(x)
     
-    for i in range(0,len(x)):
-        return len(x)
         
     
 print(howLong("photography"))
